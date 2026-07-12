@@ -48,4 +48,4 @@ A detailed step-by-step project report is available here:
 ## 👨‍💻 Author
 **Krishnendhu Sudheer**
 
-Master's in Actuarial Science | AI Integrated Data Analytics Program
+Master's in Actuarial Science
